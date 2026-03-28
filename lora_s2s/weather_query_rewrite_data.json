@@ -1,0 +1,1237 @@
+[
+  {
+    "original": "气温平均值是多少？",
+    "rewritten": "平均气温 2米",
+    "param": "2米平均气温"
+  },
+  {
+    "original": "今天的平均气温是多少？",
+    "rewritten": "2米平均气温 温度 摄氏度",
+    "param": "2米平均气温"
+  },
+  {
+    "original": "今天平均有多热？",
+    "rewritten": "平均气温 温度",
+    "param": "2米平均气温"
+  },
+  {
+    "original": "平均温度多少度？",
+    "rewritten": "2米平均气温 气温",
+    "param": "2米平均气温"
+  },
+  {
+    "original": "平均气温的数值？",
+    "rewritten": "2米平均气温 数值",
+    "param": "2米平均气温"
+  },
+  {
+    "original": "气温峰值是多少？",
+    "rewritten": "最高气温 峰值",
+    "param": "2米最高气温"
+  },
+  {
+    "original": "今天有多热？最高温度多少？",
+    "rewritten": "最高气温 温度",
+    "param": "2米最高气温"
+  },
+  {
+    "original": "今天的最高温度？",
+    "rewritten": "2米最高气温",
+    "param": "2米最高气温"
+  },
+  {
+    "original": "气温最高达到多少度？",
+    "rewritten": "最高气温 摄氏度",
+    "param": "2米最高气温"
+  },
+  {
+    "original": "今天最高气温是多少？",
+    "rewritten": "2米最高气温 温度",
+    "param": "2米最高气温"
+  },
+  {
+    "original": "今天最低气温多少度？",
+    "rewritten": "2米最低气温 温度",
+    "param": "2米最低气温"
+  },
+  {
+    "original": "气温谷值是多少？",
+    "rewritten": "最低气温 谷值",
+    "param": "2米最低气温"
+  },
+  {
+    "original": "夜间最低温度？",
+    "rewritten": "最低气温",
+    "param": "2米最低气温"
+  },
+  {
+    "original": "今天最冷多少度？",
+    "rewritten": "最低气温",
+    "param": "2米最低气温"
+  },
+  {
+    "original": "气温最低是多少？",
+    "rewritten": "最低气温 摄氏度",
+    "param": "2米最低气温"
+  },
+  {
+    "original": "400百帕的气温是多少？",
+    "rewritten": "400hPa气温",
+    "param": "400hPa气温"
+  },
+  {
+    "original": "高空400百帕的温度？",
+    "rewritten": "400hPa 气温",
+    "param": "400hPa气温"
+  },
+  {
+    "original": "高空温度400hPa？",
+    "rewritten": "400hPa气温",
+    "param": "400hPa气温"
+  },
+  {
+    "original": "400百帕层的温度？",
+    "rewritten": "400hPa气温",
+    "param": "400hPa气温"
+  },
+  {
+    "original": "400hPa温度多少？",
+    "rewritten": "400hPa气温",
+    "param": "400hPa气温"
+  },
+  {
+    "original": "中空700百帕温度？",
+    "rewritten": "700hPa 气温",
+    "param": "700hPa气温"
+  },
+  {
+    "original": "700百帕层的温度？",
+    "rewritten": "700hPa气温",
+    "param": "700hPa气温"
+  },
+  {
+    "original": "700hPa温度是多少？",
+    "rewritten": "700hPa气温",
+    "param": "700hPa气温"
+  },
+  {
+    "original": "700百帕气温多少？",
+    "rewritten": "700hPa气温",
+    "param": "700hPa气温"
+  },
+  {
+    "original": "低空850百帕温度？",
+    "rewritten": "850hPa 气温",
+    "param": "850hPa气温"
+  },
+  {
+    "original": "850百帕层的温度？",
+    "rewritten": "850hPa气温",
+    "param": "850hPa气温"
+  },
+  {
+    "original": "850百帕气温是多少？",
+    "rewritten": "850hPa气温",
+    "param": "850hPa气温"
+  },
+  {
+    "original": "850hPa温度多少？",
+    "rewritten": "850hPa气温",
+    "param": "850hPa气温"
+  },
+  {
+    "original": "900百帕层的温度？",
+    "rewritten": "900hPa气温",
+    "param": "900hPa气温"
+  },
+  {
+    "original": "900hPa温度多少？",
+    "rewritten": "900hPa气温",
+    "param": "900hPa气温"
+  },
+  {
+    "original": "900百帕气温是多少？",
+    "rewritten": "900hPa气温",
+    "param": "900hPa气温"
+  },
+  {
+    "original": "低空900百帕温度？",
+    "rewritten": "900hPa 气温",
+    "param": "900hPa气温"
+  },
+  {
+    "original": "850-500百帕温差？",
+    "rewritten": "温度递减率",
+    "param": "850hpa与500hpa的平均温差"
+  },
+  {
+    "original": "温度随高度变化多少？",
+    "rewritten": "温度递减率",
+    "param": "850hpa与500hpa的平均温差"
+  },
+  {
+    "original": "850和500百帕的温差是多少？",
+    "rewritten": "温度递减率 温差",
+    "param": "850hpa与500hpa的平均温差"
+  },
+  {
+    "original": "垂直温度梯度是多少？",
+    "rewritten": "温度递减率",
+    "param": "850hpa与500hpa的平均温差"
+  },
+  {
+    "original": "上下层温差大吗？",
+    "rewritten": "温度递减率",
+    "param": "850hpa与500hpa的平均温差"
+  },
+  {
+    "original": "最大对流不稳定能量？",
+    "rewritten": "对流有效位能 CAPE",
+    "param": "最大对流有效位能"
+  },
+  {
+    "original": "对流发展潜势多少？",
+    "rewritten": "CAPE 对流潜势",
+    "param": "最大对流有效位能"
+  },
+  {
+    "original": "最大对流有效位能是多少？",
+    "rewritten": "最大对流有效位能 CAPE J/kg",
+    "param": "最大对流有效位能"
+  },
+  {
+    "original": "CAPE值是多少？",
+    "rewritten": "CAPE 对流有效位能",
+    "param": "最大对流有效位能"
+  },
+  {
+    "original": "对流能量最大值多少？",
+    "rewritten": "最大对流有效位能 能量",
+    "param": "最大对流有效位能"
+  },
+  {
+    "original": "平均CAPE值是多少？",
+    "rewritten": "平均CAPE 对流有效位能",
+    "param": "平均对流有效位能"
+  },
+  {
+    "original": "对流能量的平均水平？",
+    "rewritten": "平均对流有效位能",
+    "param": "平均对流有效位能"
+  },
+  {
+    "original": "平均对流有效位能是多少？",
+    "rewritten": "平均对流有效位能",
+    "param": "平均对流有效位能"
+  },
+  {
+    "original": "对流能量的平均值？",
+    "rewritten": "平均对流有效位能",
+    "param": "平均对流有效位能"
+  },
+  {
+    "original": "CAPE超过平均的比例？",
+    "rewritten": "对流有效位能 高于平均 比例",
+    "param": "对流有效位能高于平均值的比例"
+  },
+  {
+    "original": "对流有效位能高于平均的比例是多少？",
+    "rewritten": "对流有效位能高于平均值的比例",
+    "param": "对流有效位能高于平均值的比例"
+  },
+  {
+    "original": "高对流能量区域占比？",
+    "rewritten": "对流有效位能 高值比例",
+    "param": "对流有效位能高于平均值的比例"
+  },
+  {
+    "original": "超过平均CAPE的比例？",
+    "rewritten": "对流有效位能 比例",
+    "param": "对流有效位能高于平均值的比例"
+  },
+  {
+    "original": "大气是否稳定？",
+    "rewritten": "稳定度指数",
+    "param": "稳定度指标"
+  },
+  {
+    "original": "大气稳定度如何？",
+    "rewritten": "稳定度指数",
+    "param": "稳定度指标"
+  },
+  {
+    "original": "稳定性指数多少？",
+    "rewritten": "稳定度指数",
+    "param": "稳定度指标"
+  },
+  {
+    "original": "稳定度指标是多少？",
+    "rewritten": "稳定度指数",
+    "param": "稳定度指标"
+  },
+  {
+    "original": "700百帕平均比湿是多少？",
+    "rewritten": "700hPa平均比湿",
+    "param": "700hPa平均比湿"
+  },
+  {
+    "original": "700hPa平均湿度？",
+    "rewritten": "700hPa 比湿",
+    "param": "700hPa平均比湿"
+  },
+  {
+    "original": "中空平均比湿？",
+    "rewritten": "700hPa 比湿",
+    "param": "700hPa平均比湿"
+  },
+  {
+    "original": "700百帕的平均水汽含量？",
+    "rewritten": "700hPa平均比湿",
+    "param": "700hPa平均比湿"
+  },
+  {
+    "original": "700hPa最大湿度？",
+    "rewritten": "700hPa 最大比湿",
+    "param": "700hPa最大比湿"
+  },
+  {
+    "original": "700百帕的最大水汽含量？",
+    "rewritten": "700hPa最大比湿",
+    "param": "700hPa最大比湿"
+  },
+  {
+    "original": "700百帕最大比湿是多少？",
+    "rewritten": "700hPa最大比湿",
+    "param": "700hPa最大比湿"
+  },
+  {
+    "original": "低空平均比湿？",
+    "rewritten": "850hPa 比湿",
+    "param": "850hPa平均比湿"
+  },
+  {
+    "original": "850hPa平均湿度？",
+    "rewritten": "850hPa 比湿",
+    "param": "850hPa平均比湿"
+  },
+  {
+    "original": "850百帕平均比湿是多少？",
+    "rewritten": "850hPa平均比湿",
+    "param": "850hPa平均比湿"
+  },
+  {
+    "original": "低空平均湿度？",
+    "rewritten": "低层 比湿",
+    "param": "低层平均比湿"
+  },
+  {
+    "original": "低层平均比湿是多少？",
+    "rewritten": "低层平均比湿",
+    "param": "低层平均比湿"
+  },
+  {
+    "original": "近地面平均水汽含量？",
+    "rewritten": "低层平均比湿",
+    "param": "低层平均比湿"
+  },
+  {
+    "original": "湿润指数？",
+    "rewritten": "湿度指数",
+    "param": "湿度指数"
+  },
+  {
+    "original": "湿度指标多少？",
+    "rewritten": "湿度指数",
+    "param": "湿度指数"
+  },
+  {
+    "original": "空气潮湿程度指标？",
+    "rewritten": "湿度指数",
+    "param": "湿度指数"
+  },
+  {
+    "original": "湿度指数是多少？",
+    "rewritten": "湿度指数",
+    "param": "湿度指数"
+  },
+  {
+    "original": "近地面东西风向风速？",
+    "rewritten": "U向风速",
+    "param": "2米平均U向风速"
+  },
+  {
+    "original": "U方向平均风速？",
+    "rewritten": "U向风速",
+    "param": "2米平均U向风速"
+  },
+  {
+    "original": "2米平均U向风速是多少？",
+    "rewritten": "2米平均U向风速 m/s",
+    "param": "2米平均U向风速"
+  },
+  {
+    "original": "2米高度东西向风？",
+    "rewritten": "2米U向风速",
+    "param": "2米平均U向风速"
+  },
+  {
+    "original": "近地面东西风向最大风速？",
+    "rewritten": "最大U向风速",
+    "param": "2米最大U向风速"
+  },
+  {
+    "original": "2米高度东西向最大风？",
+    "rewritten": "最大U向风速",
+    "param": "2米最大U向风速"
+  },
+  {
+    "original": "2米最大U向风速是多少？",
+    "rewritten": "2米最大U向风速",
+    "param": "2米最大U向风速"
+  },
+  {
+    "original": "V方向平均风速？",
+    "rewritten": "V向风速",
+    "param": "10米平均V向风速"
+  },
+  {
+    "original": "10米高度南北风向风速？",
+    "rewritten": "V向风速",
+    "param": "10米平均V向风速"
+  },
+  {
+    "original": "10米平均V向风速是多少？",
+    "rewritten": "10米平均V向风速",
+    "param": "10米平均V向风速"
+  },
+  {
+    "original": "V方向最大风速？",
+    "rewritten": "最大V向风速",
+    "param": "10米最大V向风速"
+  },
+  {
+    "original": "10米最大V向风速是多少？",
+    "rewritten": "10米最大V向风速",
+    "param": "10米最大V向风速"
+  },
+  {
+    "original": "10米高度南北风向最大风速？",
+    "rewritten": "最大V向风速",
+    "param": "10米最大V向风速"
+  },
+  {
+    "original": "近地面风速多大？",
+    "rewritten": "低层风速",
+    "param": "低层风速"
+  },
+  {
+    "original": "地面风速多少？",
+    "rewritten": "低层风速",
+    "param": "低层风速"
+  },
+  {
+    "original": "低空风速？",
+    "rewritten": "低层风速",
+    "param": "低层风速"
+  },
+  {
+    "original": "低层风速是多少？",
+    "rewritten": "低层风速 m/s",
+    "param": "低层风速"
+  },
+  {
+    "original": "高空最小抬升速度？",
+    "rewritten": "400hPa 上升速度",
+    "param": "400hPa最小垂直上升速度"
+  },
+  {
+    "original": "400百帕最小垂直上升速度是多少？",
+    "rewritten": "400hPa最小垂直上升速度 Pa/s",
+    "param": "400hPa最小垂直上升速度"
+  },
+  {
+    "original": "400hPa最小上升速度？",
+    "rewritten": "垂直上升速度 最小",
+    "param": "400hPa最小垂直上升速度"
+  },
+  {
+    "original": "高空平均抬升速度？",
+    "rewritten": "400hPa 平均上升速度",
+    "param": "400hPa平均垂直上升速度"
+  },
+  {
+    "original": "400百帕平均垂直上升速度是多少？",
+    "rewritten": "400hPa平均垂直上升速度",
+    "param": "400hPa平均垂直上升速度"
+  },
+  {
+    "original": "400hPa平均上升速度？",
+    "rewritten": "平均垂直上升速度",
+    "param": "400hPa平均垂直上升速度"
+  },
+  {
+    "original": "高空上升运动范围多大？",
+    "rewritten": "上升运动 面积占比",
+    "param": "400hPa上升运动区面积占比"
+  },
+  {
+    "original": "400百帕上升运动区占比多少？",
+    "rewritten": "400hPa上升运动区面积占比",
+    "param": "400hPa上升运动区面积占比"
+  },
+  {
+    "original": "400hPa抬升区域比例？",
+    "rewritten": "上升运动 比例",
+    "param": "400hPa上升运动区面积占比"
+  },
+  {
+    "original": "900hPa最小上升速度？",
+    "rewritten": "900hPa 垂直上升速度",
+    "param": "900hPa最小垂直上升速度"
+  },
+  {
+    "original": "900百帕最小垂直上升速度是多少？",
+    "rewritten": "900hPa最小垂直上升速度",
+    "param": "900hPa最小垂直上升速度"
+  },
+  {
+    "original": "低空最小抬升速度？",
+    "rewritten": "900hPa 上升速度",
+    "param": "900hPa最小垂直上升速度"
+  },
+  {
+    "original": "900hPa平均上升速度？",
+    "rewritten": "900hPa 平均垂直上升速度",
+    "param": "900hPa平均垂直上升速度"
+  },
+  {
+    "original": "900百帕平均垂直上升速度是多少？",
+    "rewritten": "900hPa平均垂直上升速度",
+    "param": "900hPa平均垂直上升速度"
+  },
+  {
+    "original": "低空平均抬升速度？",
+    "rewritten": "900hPa 上升速度",
+    "param": "900hPa平均垂直上升速度"
+  },
+  {
+    "original": "最大旋转强度？",
+    "rewritten": "最大涡度",
+    "param": "最大涡度"
+  },
+  {
+    "original": "涡度最大值多少？",
+    "rewritten": "最大涡度",
+    "param": "最大涡度"
+  },
+  {
+    "original": "旋转最强处的涡度？",
+    "rewritten": "涡度 最大",
+    "param": "最大涡度"
+  },
+  {
+    "original": "最大涡度是多少？",
+    "rewritten": "最大涡度 1/s",
+    "param": "最大涡度"
+  },
+  {
+    "original": "最小涡度是多少？",
+    "rewritten": "最小涡度",
+    "param": "最小涡度"
+  },
+  {
+    "original": "涡度最小值多少？",
+    "rewritten": "最小涡度",
+    "param": "最小涡度"
+  },
+  {
+    "original": "旋转最弱处的涡度？",
+    "rewritten": "最小涡度",
+    "param": "最小涡度"
+  },
+  {
+    "original": "平均旋转强度？",
+    "rewritten": "平均涡度",
+    "param": "平均涡度"
+  },
+  {
+    "original": "平均涡度是多少？",
+    "rewritten": "平均涡度",
+    "param": "平均涡度"
+  },
+  {
+    "original": "涡度平均值多少？",
+    "rewritten": "平均涡度",
+    "param": "平均涡度"
+  },
+  {
+    "original": "正涡度比例是多少？",
+    "rewritten": "正涡度比例",
+    "param": "正涡度比例"
+  },
+  {
+    "original": "正涡度占多少比例？",
+    "rewritten": "正涡度 比例",
+    "param": "正涡度比例"
+  },
+  {
+    "original": "气旋性涡度比例？",
+    "rewritten": "正涡度 比例",
+    "param": "正涡度比例"
+  },
+  {
+    "original": "最小水汽通量散度是多少？",
+    "rewritten": "最小水汽通量散度",
+    "param": "最小水汽通量散度"
+  },
+  {
+    "original": "最小水汽辐合？",
+    "rewritten": "水汽通量散度",
+    "param": "最小水汽通量散度"
+  },
+  {
+    "original": "水汽通量散度最小值？",
+    "rewritten": "水汽通量散度 最小",
+    "param": "最小水汽通量散度"
+  },
+  {
+    "original": "水汽通量散度平均值？",
+    "rewritten": "平均水汽通量散度",
+    "param": "平均水汽通量散度"
+  },
+  {
+    "original": "平均水汽通量散度是多少？",
+    "rewritten": "平均水汽通量散度",
+    "param": "平均水汽通量散度"
+  },
+  {
+    "original": "平均水汽输送？",
+    "rewritten": "水汽通量散度",
+    "param": "平均水汽通量散度"
+  },
+  {
+    "original": "水汽通量散度收敛率是多少？",
+    "rewritten": "水汽通量散度收敛率",
+    "param": "水汽通量散度收敛率"
+  },
+  {
+    "original": "水汽汇聚率？",
+    "rewritten": "水汽通量散度 收敛",
+    "param": "水汽通量散度收敛率"
+  },
+  {
+    "original": "水汽辐合比例？",
+    "rewritten": "水汽通量散度 收敛率",
+    "param": "水汽通量散度收敛率"
+  },
+  {
+    "original": "200百帕平均位势高度是多少？",
+    "rewritten": "200hPa平均位势高度",
+    "param": "200hPa平均位势高度"
+  },
+  {
+    "original": "高空200百帕平均高度？",
+    "rewritten": "200hPa 位势高度",
+    "param": "200hPa平均位势高度"
+  },
+  {
+    "original": "200hPa平均高度？",
+    "rewritten": "200hPa 位势高度",
+    "param": "200hPa平均位势高度"
+  },
+  {
+    "original": "高空200百帕最高高度？",
+    "rewritten": "200hPa 位势高度",
+    "param": "200hPa最大位势高度"
+  },
+  {
+    "original": "200hPa最大高度？",
+    "rewritten": "200hPa 最大位势高度",
+    "param": "200hPa最大位势高度"
+  },
+  {
+    "original": "200百帕最大位势高度是多少？",
+    "rewritten": "200hPa最大位势高度",
+    "param": "200hPa最大位势高度"
+  },
+  {
+    "original": "200hPa最小高度？",
+    "rewritten": "200hPa 最小位势高度",
+    "param": "200hPa最小位势高度"
+  },
+  {
+    "original": "高空200百帕最低高度？",
+    "rewritten": "200hPa 位势高度",
+    "param": "200hPa最小位势高度"
+  },
+  {
+    "original": "200百帕最小位势高度是多少？",
+    "rewritten": "200hPa最小位势高度",
+    "param": "200hPa最小位势高度"
+  },
+  {
+    "original": "400百帕平均位势高度是多少？",
+    "rewritten": "400hPa平均位势高度",
+    "param": "400hPa平均位势高度"
+  },
+  {
+    "original": "高空400百帕平均高度？",
+    "rewritten": "400hPa 位势高度",
+    "param": "400hPa平均位势高度"
+  },
+  {
+    "original": "400hPa平均高度？",
+    "rewritten": "400hPa 位势高度",
+    "param": "400hPa平均位势高度"
+  },
+  {
+    "original": "400hPa最大高度？",
+    "rewritten": "400hPa 最大位势高度",
+    "param": "400hPa最大位势高度"
+  },
+  {
+    "original": "400百帕最大位势高度是多少？",
+    "rewritten": "400hPa最大位势高度",
+    "param": "400hPa最大位势高度"
+  },
+  {
+    "original": "400hPa最小高度？",
+    "rewritten": "400hPa 最小位势高度",
+    "param": "400hPa最小位势高度"
+  },
+  {
+    "original": "400百帕最小位势高度是多少？",
+    "rewritten": "400hPa最小位势高度",
+    "param": "400hPa最小位势高度"
+  },
+  {
+    "original": "中空500百帕平均高度？",
+    "rewritten": "500hPa 位势高度",
+    "param": "500hPa平均位势高度"
+  },
+  {
+    "original": "500hPa平均高度？",
+    "rewritten": "500hPa 位势高度",
+    "param": "500hPa平均位势高度"
+  },
+  {
+    "original": "500百帕平均位势高度是多少？",
+    "rewritten": "500hPa平均位势高度",
+    "param": "500hPa平均位势高度"
+  },
+  {
+    "original": "500百帕最大位势高度是多少？",
+    "rewritten": "500hPa最大位势高度",
+    "param": "500hPa最大位势高度"
+  },
+  {
+    "original": "500hPa最大高度？",
+    "rewritten": "500hPa 最大位势高度",
+    "param": "500hPa最大位势高度"
+  },
+  {
+    "original": "500百帕最小位势高度是多少？",
+    "rewritten": "500hPa最小位势高度",
+    "param": "500hPa最小位势高度"
+  },
+  {
+    "original": "500hPa最小高度？",
+    "rewritten": "500hPa 最小位势高度",
+    "param": "500hPa最小位势高度"
+  },
+  {
+    "original": "最大3小时降雨量？",
+    "rewritten": "最大降水量 3小时",
+    "param": "3小时最大降水量"
+  },
+  {
+    "original": "3小时最大降水量是多少？",
+    "rewritten": "3小时最大降水量 mm",
+    "param": "3小时最大降水量"
+  },
+  {
+    "original": "短时强降水最大量？",
+    "rewritten": "3小时最大降水量",
+    "param": "3小时最大降水量"
+  },
+  {
+    "original": "过去3小时最强降雨？",
+    "rewritten": "3小时最大降水量",
+    "param": "3小时最大降水量"
+  },
+  {
+    "original": "3小时平均降水量是多少？",
+    "rewritten": "3小时平均降水量",
+    "param": "3小时平均降水量"
+  },
+  {
+    "original": "短时平均降水？",
+    "rewritten": "3小时平均降水量",
+    "param": "3小时平均降水量"
+  },
+  {
+    "original": "平均3小时降雨量？",
+    "rewritten": "平均降水量 3小时",
+    "param": "3小时平均降水量"
+  },
+  {
+    "original": "大雨占比？",
+    "rewritten": "强降水比例",
+    "param": "强降水比例"
+  },
+  {
+    "original": "暴雨比例？",
+    "rewritten": "强降水比例",
+    "param": "强降水比例"
+  },
+  {
+    "original": "强降雨占比多少？",
+    "rewritten": "强降水 比例",
+    "param": "强降水比例"
+  },
+  {
+    "original": "强降水比例是多少？",
+    "rewritten": "强降水比例",
+    "param": "强降水比例"
+  },
+  {
+    "original": "中等降雨比例？",
+    "rewritten": "中降水比例",
+    "param": "中降水比例"
+  },
+  {
+    "original": "中雨占比多少？",
+    "rewritten": "中降水 比例",
+    "param": "中降水比例"
+  },
+  {
+    "original": "中降水比例是多少？",
+    "rewritten": "中降水比例",
+    "param": "中降水比例"
+  },
+  {
+    "original": "今天的气温和湿度怎么样？",
+    "rewritten": "2米平均气温 2米最高气温 2米最低气温 湿度指数",
+    "param": "combined"
+  },
+  {
+    "original": "温度和降水是多少？",
+    "rewritten": "2米平均气温 3小时最大降水量",
+    "param": "combined"
+  },
+  {
+    "original": "温度和风场怎么样？",
+    "rewritten": "2米平均气温 低层风速",
+    "param": "combined"
+  },
+  {
+    "original": "温度和垂直运动如何？",
+    "rewritten": "2米平均气温 400hPa平均垂直上升速度",
+    "param": "combined"
+  },
+  {
+    "original": "温度和对流能量多少？",
+    "rewritten": "2米平均气温 最大对流有效位能",
+    "param": "combined"
+  },
+  {
+    "original": "温度和涡度怎么样？",
+    "rewritten": "2米平均气温 最大涡度",
+    "param": "combined"
+  },
+  {
+    "original": "温度和位势高度？",
+    "rewritten": "2米平均气温 500hPa平均位势高度",
+    "param": "combined"
+  },
+  {
+    "original": "最高和最低气温分别是多少？",
+    "rewritten": "2米最高气温 2米最低气温",
+    "param": "combined"
+  },
+  {
+    "original": "地面和高空温度对比？",
+    "rewritten": "2米平均气温 400hPa气温",
+    "param": "combined"
+  },
+  {
+    "original": "不同高度的温度情况？",
+    "rewritten": "2米平均气温 850hPa气温 400hPa气温",
+    "param": "combined"
+  },
+  {
+    "original": "湿度和降水怎么样？",
+    "rewritten": "低层平均比湿 3小时最大降水量",
+    "param": "combined"
+  },
+  {
+    "original": "湿度和垂直运动如何？",
+    "rewritten": "低层平均比湿 400hPa平均垂直上升速度",
+    "param": "combined"
+  },
+  {
+    "original": "湿度和风场怎么样？",
+    "rewritten": "低层平均比湿 低层风速",
+    "param": "combined"
+  },
+  {
+    "original": "湿度和对流能量？",
+    "rewritten": "低层平均比湿 最大对流有效位能",
+    "param": "combined"
+  },
+  {
+    "original": "湿度和涡度？",
+    "rewritten": "低层平均比湿 最大涡度",
+    "param": "combined"
+  },
+  {
+    "original": "湿度和温度？",
+    "rewritten": "低层平均比湿 2米平均气温",
+    "param": "combined"
+  },
+  {
+    "original": "不同高度的湿度？",
+    "rewritten": "850hPa平均比湿 700hPa平均比湿",
+    "param": "combined"
+  },
+  {
+    "original": "湿度和稳定度？",
+    "rewritten": "低层平均比湿 稳定度指标",
+    "param": "combined"
+  },
+  {
+    "original": "风和对流能量多少？",
+    "rewritten": "低层风速 最大对流有效位能",
+    "param": "combined"
+  },
+  {
+    "original": "风场和垂直运动怎么样？",
+    "rewritten": "低层风速 400hPa平均垂直上升速度",
+    "param": "combined"
+  },
+  {
+    "original": "风场和降水怎么样？",
+    "rewritten": "低层风速 3小时最大降水量",
+    "param": "combined"
+  },
+  {
+    "original": "风场和温度？",
+    "rewritten": "低层风速 2米平均气温",
+    "param": "combined"
+  },
+  {
+    "original": "风场和湿度？",
+    "rewritten": "低层风速 低层平均比湿",
+    "param": "combined"
+  },
+  {
+    "original": "风场和涡度？",
+    "rewritten": "低层风速 最大涡度",
+    "param": "combined"
+  },
+  {
+    "original": "U向和V向风速？",
+    "rewritten": "2米平均U向风速 10米平均V向风速",
+    "param": "combined"
+  },
+  {
+    "original": "高低空风场？",
+    "rewritten": "低层风速 400hPa平均垂直上升速度",
+    "param": "combined"
+  },
+  {
+    "original": "风场和位势高度？",
+    "rewritten": "低层风速 500hPa平均位势高度",
+    "param": "combined"
+  },
+  {
+    "original": "对流和降水情况如何？",
+    "rewritten": "最大对流有效位能 3小时最大降水量 强降水比例",
+    "param": "combined"
+  },
+  {
+    "original": "对流和垂直运动？",
+    "rewritten": "最大对流有效位能 400hPa平均垂直上升速度",
+    "param": "combined"
+  },
+  {
+    "original": "对流和稳定度？",
+    "rewritten": "最大对流有效位能 稳定度指标",
+    "param": "combined"
+  },
+  {
+    "original": "对流和湿度？",
+    "rewritten": "最大对流有效位能 低层平均比湿",
+    "param": "combined"
+  },
+  {
+    "original": "对流和温度？",
+    "rewritten": "最大对流有效位能 2米平均气温",
+    "param": "combined"
+  },
+  {
+    "original": "对流和风场？",
+    "rewritten": "最大对流有效位能 低层风速",
+    "param": "combined"
+  },
+  {
+    "original": "对流和涡度？",
+    "rewritten": "最大对流有效位能 最大涡度",
+    "param": "combined"
+  },
+  {
+    "original": "CAPE和上升运动？",
+    "rewritten": "最大对流有效位能 400hPa最小垂直上升速度",
+    "param": "combined"
+  },
+  {
+    "original": "对流和位势高度？",
+    "rewritten": "最大对流有效位能 500hPa平均位势高度",
+    "param": "combined"
+  },
+  {
+    "original": "高空风场和垂直运动怎么样？",
+    "rewritten": "低层风速 400hPa平均垂直上升速度 最大涡度",
+    "param": "combined"
+  },
+  {
+    "original": "垂直运动和降水？",
+    "rewritten": "400hPa平均垂直上升速度 3小时最大降水量",
+    "param": "combined"
+  },
+  {
+    "original": "垂直运动和湿度？",
+    "rewritten": "400hPa平均垂直上升速度 低层平均比湿",
+    "param": "combined"
+  },
+  {
+    "original": "垂直运动和温度？",
+    "rewritten": "400hPa平均垂直上升速度 2米平均气温",
+    "param": "combined"
+  },
+  {
+    "original": "垂直运动和对流？",
+    "rewritten": "400hPa平均垂直上升速度 最大对流有效位能",
+    "param": "combined"
+  },
+  {
+    "original": "垂直运动和涡度？",
+    "rewritten": "400hPa平均垂直上升速度 最大涡度",
+    "param": "combined"
+  },
+  {
+    "original": "高低空垂直运动？",
+    "rewritten": "400hPa平均垂直上升速度 900hPa平均垂直上升速度",
+    "param": "combined"
+  },
+  {
+    "original": "垂直运动和稳定度？",
+    "rewritten": "400hPa平均垂直上升速度 稳定度指标",
+    "param": "combined"
+  },
+  {
+    "original": "涡度和降水？",
+    "rewritten": "最大涡度 3小时最大降水量",
+    "param": "combined"
+  },
+  {
+    "original": "涡度和垂直运动？",
+    "rewritten": "最大涡度 400hPa平均垂直上升速度",
+    "param": "combined"
+  },
+  {
+    "original": "涡度和风场？",
+    "rewritten": "最大涡度 低层风速",
+    "param": "combined"
+  },
+  {
+    "original": "涡度和湿度？",
+    "rewritten": "最大涡度 低层平均比湿",
+    "param": "combined"
+  },
+  {
+    "original": "涡度和温度？",
+    "rewritten": "最大涡度 2米平均气温",
+    "param": "combined"
+  },
+  {
+    "original": "涡度和对流？",
+    "rewritten": "最大涡度 最大对流有效位能",
+    "param": "combined"
+  },
+  {
+    "original": "涡度和位势高度？",
+    "rewritten": "最大涡度 500hPa平均位势高度",
+    "param": "combined"
+  },
+  {
+    "original": "最大和最小涡度？",
+    "rewritten": "最大涡度 最小涡度",
+    "param": "combined"
+  },
+  {
+    "original": "降水和湿度？",
+    "rewritten": "3小时最大降水量 低层平均比湿",
+    "param": "combined"
+  },
+  {
+    "original": "降水和垂直运动？",
+    "rewritten": "3小时最大降水量 400hPa平均垂直上升速度",
+    "param": "combined"
+  },
+  {
+    "original": "降水和风场？",
+    "rewritten": "3小时最大降水量 低层风速",
+    "param": "combined"
+  },
+  {
+    "original": "降水和温度？",
+    "rewritten": "3小时最大降水量 2米平均气温",
+    "param": "combined"
+  },
+  {
+    "original": "降水和对流？",
+    "rewritten": "3小时最大降水量 最大对流有效位能",
+    "param": "combined"
+  },
+  {
+    "original": "降水和涡度？",
+    "rewritten": "3小时最大降水量 最大涡度",
+    "param": "combined"
+  },
+  {
+    "original": "最大和平均降水量？",
+    "rewritten": "3小时最大降水量 3小时平均降水量",
+    "param": "combined"
+  },
+  {
+    "original": "强降水和中降水比例？",
+    "rewritten": "强降水比例 中降水比例",
+    "param": "combined"
+  },
+  {
+    "original": "降水和位势高度？",
+    "rewritten": "3小时最大降水量 500hPa平均位势高度",
+    "param": "combined"
+  },
+  {
+    "original": "位势高度和温度？",
+    "rewritten": "500hPa平均位势高度 2米平均气温",
+    "param": "combined"
+  },
+  {
+    "original": "位势高度和风场？",
+    "rewritten": "500hPa平均位势高度 低层风速",
+    "param": "combined"
+  },
+  {
+    "original": "位势高度和湿度？",
+    "rewritten": "500hPa平均位势高度 低层平均比湿",
+    "param": "combined"
+  },
+  {
+    "original": "位势高度和降水？",
+    "rewritten": "500hPa平均位势高度 3小时最大降水量",
+    "param": "combined"
+  },
+  {
+    "original": "位势高度和垂直运动？",
+    "rewritten": "500hPa平均位势高度 400hPa平均垂直上升速度",
+    "param": "combined"
+  },
+  {
+    "original": "位势高度和对流？",
+    "rewritten": "500hPa平均位势高度 最大对流有效位能",
+    "param": "combined"
+  },
+  {
+    "original": "位势高度和涡度？",
+    "rewritten": "500hPa平均位势高度 最大涡度",
+    "param": "combined"
+  },
+  {
+    "original": "不同高度的位势高度？",
+    "rewritten": "200hPa平均位势高度 500hPa平均位势高度 850hPa气温",
+    "param": "combined"
+  },
+  {
+    "original": "温度、湿度和风场怎么样？",
+    "rewritten": "2米平均气温 低层平均比湿 低层风速",
+    "param": "combined"
+  },
+  {
+    "original": "对流、降水和垂直运动？",
+    "rewritten": "最大对流有效位能 3小时最大降水量 400hPa平均垂直上升速度",
+    "param": "combined"
+  },
+  {
+    "original": "温度、湿度和降水？",
+    "rewritten": "2米平均气温 低层平均比湿 3小时最大降水量",
+    "param": "combined"
+  },
+  {
+    "original": "风场、湿度和温度？",
+    "rewritten": "低层风速 低层平均比湿 2米平均气温",
+    "param": "combined"
+  },
+  {
+    "original": "对流、湿度和垂直运动？",
+    "rewritten": "最大对流有效位能 低层平均比湿 400hPa平均垂直上升速度",
+    "param": "combined"
+  },
+  {
+    "original": "温度、风场和降水？",
+    "rewritten": "2米平均气温 低层风速 3小时最大降水量",
+    "param": "combined"
+  },
+  {
+    "original": "涡度、垂直运动和风场？",
+    "rewritten": "最大涡度 400hPa平均垂直上升速度 低层风速",
+    "param": "combined"
+  },
+  {
+    "original": "位势高度、温度和湿度？",
+    "rewritten": "500hPa平均位势高度 2米平均气温 低层平均比湿",
+    "param": "combined"
+  },
+  {
+    "original": "今天的天气综合情况？",
+    "rewritten": "2米平均气温 低层风速 3小时最大降水量 最大对流有效位能",
+    "param": "combined"
+  },
+  {
+    "original": "对流天气的综合指标？",
+    "rewritten": "最大对流有效位能 400hPa平均垂直上升速度 最大涡度 低层平均比湿",
+    "param": "combined"
+  },
+  {
+    "original": "暴雨天气条件？",
+    "rewritten": "3小时最大降水量 低层平均比湿 400hPa平均垂直上升速度 低层风速",
+    "param": "combined"
+  },
+  {
+    "original": "高温高湿天气？",
+    "rewritten": "2米平均气温 低层平均比湿 2米最高气温 湿度指数",
+    "param": "combined"
+  },
+  {
+    "original": "大风降温天气？",
+    "rewritten": "低层风速 2米平均气温 温度递减率",
+    "param": "combined"
+  },
+  {
+    "original": "雷暴天气潜力？",
+    "rewritten": "最大对流有效位能 低层平均比湿 400hPa平均垂直上升速度 稳定度指标",
+    "param": "combined"
+  },
+  {
+    "original": "高空天气形势？",
+    "rewritten": "500hPa平均位势高度 400hPa气温 400hPa平均垂直上升速度 最大涡度",
+    "param": "combined"
+  },
+  {
+    "original": "低层天气条件？",
+    "rewritten": "2米平均气温 低层平均比湿 低层风速 2米平均U向风速",
+    "param": "combined"
+  }
+]
